@@ -1,0 +1,91 @@
+C:.
+|   AuthClient.exe
+|   AuthClient.obj
+|   AuthHandler.obj
+|   CLOUD++.vcxproj
+|   CLOUD++.vcxproj.filters
+|   CLOUD++.vcxproj.user
+|   ConnectionManager.obj
+|   LoginHandler.obj
+|   main_client.exe
+|   main_client.obj
+|   PasswordManager.obj
+|   personal.obj
+|   RegisterHandler.obj
+|   SessionManager.obj
+|   UserValidator.obj
+|
++---client
+|       main_client.cpp
+|
++---Cloud-
+|       README.md
+|
++---data
+|   |   sessions.txt
+|   |   users.txt
+|   |
+|   \---logs
+|           loginlog.txt
+|
++---include
+|   \---client
+|           AuthClient.h
+|           AuthHandler.h
+|           ConnectionManager.h
+|           LoginHandler.h
+|           PasswordManager.h
+|           personal.h
+|           RegisterHandler.h
+|           SessionManager.h
+|           UserValidator.h
+|
++---src
+|   \---client
+|           AuthClient.cpp
+|           AuthHandler.cpp
+|           ConnectionManager.cpp
+|           LoginHandler.cpp
+|           PasswordManager.cpp
+|           personal.cpp
+|           RegisterHandler.cpp
+|           SessionManager.cpp
+|           UserValidator.cpp
+|
+\---x64
+    \---Debug
+        |   AuthClient.obj
+        |   AuthHandler.obj
+        |   CLOUD++.Build.CppClean.log
+        |   CLOUD++.exe.recipe
+        |   CLOUD++.log
+        |   CLOUD++.vcxproj.FileListAbsolute.txt
+        |   ConnectionManager.obj
+        |   LoginHandler.obj
+        |   main_client.obj
+        |   PasswordManager.obj
+        |   personal.obj
+        |   RegisterHandler.obj
+        |   SessionManager.obj
+        |   UserValidator.obj
+        |   vc143.idb
+        |   vc143.pdb
+        |
+        \---CLOUD++.tlog
+                CL.command.1.tlog
+                CL.read.1.tlog
+                CL.write.1.tlog
+                CLOUD++.lastbuildstate
+                link-cvtres.read.1.tlog
+                link-cvtres.write.1.tlog
+                link-rc.read.1.tlog
+                link-rc.write.1.tlog
+                link.command.1.tlog
+                link.read.1.tlog
+                link.read.2.tlog
+                link.read.3.tlog
+                link.write.1.tlog
+                unsuccessfulbuild
+
+
+C:\Users\Administrator\Desktop\CLOUD++\CLOUD++>
