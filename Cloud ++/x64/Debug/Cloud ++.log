@@ -1,0 +1,11 @@
+﻿  AuthClient.cpp
+  AuthHandler.cpp
+  ConnectionManager.cpp
+  LoginHandler.cpp
+C:\Users\Administrator\Desktop\Cloud ++\src\features\MemberA\LoginHandler.cpp(31,19): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PasswordManager.cpp
+  personal.cpp
+  RegisterHandler.cpp
+  SessionManager.cpp
+  UserValidator.cpp
+  Generating Code...

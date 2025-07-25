@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\LoginHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberA\\LoginHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\UserValidator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberA\\UserValidator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\SessionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberA\\SessionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\RegisterHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberA\\RegisterHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\personal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberA\\personal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\PasswordManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberA\\PasswordManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\PasswordManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberA\\PasswordManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\LoginHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberA\\LoginHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\ConnectionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberA\\ConnectionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\AuthHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberA\\AuthHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\RestoreHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberC\\RestoreHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\Inbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberC\\Inbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\AuthClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberA\\AuthClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\RegisterHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberA\\RegisterHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\AuthHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberA\\AuthHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\personal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberA\\personal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\UserValidator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberA\\UserValidator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\SessionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberA\\SessionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\ConnectionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberA\\ConnectionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\AuthClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberA\\AuthClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\PermanentDeleteHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberC\\PermanentDeleteHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\DeleteHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberC\\DeleteHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\base\\ShareBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberC\\base\\ShareBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\base\\TrashBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberC\\base\\TrashBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\base\\ShareBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberC\\base\\ShareBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\TrashViewer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberC\\TrashViewer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\SecurityCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberC\\SecurityCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\SecureSharing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:src\\features\\MemberC\\SecureSharing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\Inbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberC\\Inbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\PermanentDeleteHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberC\\PermanentDeleteHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\DeleteHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberC\\DeleteHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\base\\TrashBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberC\\base\\TrashBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\TrashViewer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberC\\TrashViewer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\SecurityCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberC\\SecurityCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\SecureSharing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberC\\SecureSharing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\RestoreHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE120050-0258-4397-A4F1-681244BE810E}|Cloud \u002B\u002B.vcxproj|solutionrelative:include\\features\\MemberC\\RestoreHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "personal.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\personal.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberA\\personal.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\personal.cpp",
+              "RelativeToolTip": "src\\features\\MemberA\\personal.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T10:54:10.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterHandler.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\RegisterHandler.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberA\\RegisterHandler.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\RegisterHandler.cpp",
+              "RelativeToolTip": "src\\features\\MemberA\\RegisterHandler.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T10:51:54.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\SessionManager.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberA\\SessionManager.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\SessionManager.cpp",
+              "RelativeToolTip": "src\\features\\MemberA\\SessionManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T10:52:34.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserValidator.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\UserValidator.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberA\\UserValidator.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\UserValidator.cpp",
+              "RelativeToolTip": "src\\features\\MemberA\\UserValidator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T10:53:41.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginHandler.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\LoginHandler.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberA\\LoginHandler.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\LoginHandler.cpp",
+              "RelativeToolTip": "src\\features\\MemberA\\LoginHandler.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T10:49:55.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\PasswordManager.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberA\\PasswordManager.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\PasswordManager.cpp",
+              "RelativeToolTip": "src\\features\\MemberA\\PasswordManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T10:50:39.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordManager.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\PasswordManager.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberA\\PasswordManager.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\PasswordManager.h",
+              "RelativeToolTip": "include\\features\\MemberA\\PasswordManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-25T10:05:14.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginHandler.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\LoginHandler.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberA\\LoginHandler.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\LoginHandler.h",
+              "RelativeToolTip": "include\\features\\MemberA\\LoginHandler.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-25T10:04:41.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConnectionManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\ConnectionManager.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberA\\ConnectionManager.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\ConnectionManager.cpp",
+              "RelativeToolTip": "src\\features\\MemberA\\ConnectionManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T10:49:18.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthHandler.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\AuthHandler.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberA\\AuthHandler.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\AuthHandler.cpp",
+              "RelativeToolTip": "src\\features\\MemberA\\AuthHandler.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T10:48:37.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RestoreHandler.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\RestoreHandler.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberC\\RestoreHandler.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\RestoreHandler.cpp",
+              "RelativeToolTip": "src\\features\\MemberC\\RestoreHandler.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T15:13:19.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Inbox.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\Inbox.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberC\\Inbox.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\Inbox.cpp",
+              "RelativeToolTip": "src\\features\\MemberC\\Inbox.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T15:14:16.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthClient.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\AuthClient.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberA\\AuthClient.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberA\\AuthClient.cpp",
+              "RelativeToolTip": "src\\features\\MemberA\\AuthClient.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T10:46:55.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "personal.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\personal.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberA\\personal.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\personal.h",
+              "RelativeToolTip": "include\\features\\MemberA\\personal.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-25T10:45:18.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserValidator.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\UserValidator.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberA\\UserValidator.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\UserValidator.h",
+              "RelativeToolTip": "include\\features\\MemberA\\UserValidator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-25T10:44:33.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SessionManager.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\SessionManager.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberA\\SessionManager.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\SessionManager.h",
+              "RelativeToolTip": "include\\features\\MemberA\\SessionManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-25T10:43:49.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterHandler.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\RegisterHandler.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberA\\RegisterHandler.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\RegisterHandler.h",
+              "RelativeToolTip": "include\\features\\MemberA\\RegisterHandler.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-25T10:05:48.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthHandler.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\AuthHandler.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberA\\AuthHandler.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\AuthHandler.h",
+              "RelativeToolTip": "include\\features\\MemberA\\AuthHandler.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-25T10:03:19.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConnectionManager.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\ConnectionManager.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberA\\ConnectionManager.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\ConnectionManager.h",
+              "RelativeToolTip": "include\\features\\MemberA\\ConnectionManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-25T10:04:00.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthClient.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\AuthClient.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberA\\AuthClient.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberA\\AuthClient.h",
+              "RelativeToolTip": "include\\features\\MemberA\\AuthClient.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-25T10:02:20.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TrashBase.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\base\\TrashBase.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberC\\base\\TrashBase.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\base\\TrashBase.cpp",
+              "RelativeToolTip": "src\\features\\MemberC\\base\\TrashBase.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T15:15:19.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShareBase.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\base\\ShareBase.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberC\\base\\ShareBase.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\base\\ShareBase.h",
+              "RelativeToolTip": "include\\features\\MemberC\\base\\ShareBase.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T15:08:45.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PermanentDeleteHandler.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\PermanentDeleteHandler.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberC\\PermanentDeleteHandler.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\PermanentDeleteHandler.cpp",
+              "RelativeToolTip": "src\\features\\MemberC\\PermanentDeleteHandler.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T15:14:54.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SecureSharing.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\SecureSharing.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberC\\SecureSharing.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\SecureSharing.cpp",
+              "RelativeToolTip": "src\\features\\MemberC\\SecureSharing.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T15:13:31.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteHandler.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\DeleteHandler.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberC\\DeleteHandler.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\DeleteHandler.cpp",
+              "RelativeToolTip": "src\\features\\MemberC\\DeleteHandler.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T06:52:16.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShareBase.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\base\\ShareBase.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberC\\base\\ShareBase.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\base\\ShareBase.cpp",
+              "RelativeToolTip": "src\\features\\MemberC\\base\\ShareBase.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T15:15:09.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TrashViewer.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\TrashViewer.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberC\\TrashViewer.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\TrashViewer.cpp",
+              "RelativeToolTip": "src\\features\\MemberC\\TrashViewer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T15:13:57.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SecurityCheck.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\SecurityCheck.cpp",
+              "RelativeDocumentMoniker": "src\\features\\MemberC\\SecurityCheck.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\src\\features\\MemberC\\SecurityCheck.cpp",
+              "RelativeToolTip": "src\\features\\MemberC\\SecurityCheck.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T15:13:43.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Inbox.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\Inbox.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberC\\Inbox.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\Inbox.h",
+              "RelativeToolTip": "include\\features\\MemberC\\Inbox.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T15:10:06.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PermanentDeleteHandler.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\PermanentDeleteHandler.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberC\\PermanentDeleteHandler.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\PermanentDeleteHandler.h",
+              "RelativeToolTip": "include\\features\\MemberC\\PermanentDeleteHandler.h",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T15:10:34.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DeleteHandler.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\DeleteHandler.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberC\\DeleteHandler.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\DeleteHandler.h",
+              "RelativeToolTip": "include\\features\\MemberC\\DeleteHandler.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T15:09:50.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TrashBase.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\base\\TrashBase.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberC\\base\\TrashBase.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\base\\TrashBase.h",
+              "RelativeToolTip": "include\\features\\MemberC\\base\\TrashBase.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T15:09:00.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TrashViewer.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\TrashViewer.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberC\\TrashViewer.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\TrashViewer.h",
+              "RelativeToolTip": "include\\features\\MemberC\\TrashViewer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T15:12:16.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SecurityCheck.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\SecurityCheck.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberC\\SecurityCheck.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\SecurityCheck.h",
+              "RelativeToolTip": "include\\features\\MemberC\\SecurityCheck.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T15:11:54.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SecureSharing.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\SecureSharing.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberC\\SecureSharing.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\SecureSharing.h",
+              "RelativeToolTip": "include\\features\\MemberC\\SecureSharing.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T15:11:25.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RestoreHandler.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\RestoreHandler.h",
+              "RelativeDocumentMoniker": "include\\features\\MemberC\\RestoreHandler.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cloud \u002B\u002B\\include\\features\\MemberC\\RestoreHandler.h",
+              "RelativeToolTip": "include\\features\\MemberC\\RestoreHandler.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-24T15:11:05.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
