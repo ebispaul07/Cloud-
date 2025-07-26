@@ -1,0 +1,8 @@
+else if (type == "LOGOUT") {
+    string username;
+    getline(ss, username, '|');
+
+    cout << "👋 User logged out: " << username << "\n";
+    response = "✅ Logout received. See you, " + username + "!";
+    send(clientSock, response.c_str(), (int)response.size(), 0);
+}
